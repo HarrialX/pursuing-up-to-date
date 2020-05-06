@@ -3,5 +3,5 @@
 ### ICLR'20
 | Year        | Title           | Type       |  Target Task | Target Model     |  Paper       |
 |-------|--------|--------|--------|-----------|------------|
-| 2020 | **Title**  | topic  |  Node Classification  | GCN | [Link](https://arxiv.org/abs/2004.13825) |
-
+| 2020 | **Optimal Strategies Against Generative Attacks**  | Defense  |  Image Classification  | GAN | [Link](https://openreview.net/pdf?id=BkgzMCVtPB) |
+|-------|--------|--------|--------|-----------|------------|
