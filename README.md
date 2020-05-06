@@ -1,2 +1,2 @@
-### An updating reading list towards ML or DNN-based security topics
+#### An updating reading list towards most recent ML or DNN-based security topics
 
