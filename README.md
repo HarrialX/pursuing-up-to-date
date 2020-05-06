@@ -1,1 +1,2 @@
-### An updating reading list towards most recent AI/SECURITY top conference
+### An updating reading list towards GNN or GNN-based security topics
+
