@@ -1,9 +1,9 @@
 ## Papers
 
 ### 2020
-| Venue | Title           | Type       |  Task | Paper       | Code |
+| Venue | Paper           | Type       |  Task | Model       | Code |
 | --------- | -------- | -------- | -------- | ----------- | ---- |
-| ICLR'20 | **Black-Box Adversarial Attack with Transferable Model-based Embedding** | Attack | Image Classification | [Link](https://openreview.net/pdf?id=SJxhNTNYwB) |  |
+| ICLR'20 | **[Black-Box Adversarial Attack with Transferable Model-based Embedding](https://openreview.net/pdf?id=SJxhNTNYwB)** | Attack | Image Classification | |  |
 | ICLR'20 | **Optimal Strategies Against Generative Attacks**  | Defense  |  Image Classification  |  [Link](https://openreview.net/pdf?id=BkgzMCVtPB) | |
 | ICLR'20 |**Adversarial Training and Provable Defenses: Bridging the Gap** | Defense | Image Classification | [Link](https://openreview.net/pdf?id=SJxSDxrKDr)| |
 | ICLR'20 | **SELF: Learning to Filter Noisy Labels with Self-Ensembling** |  | Image Classification |  [Link](https://openreview.net/pdf?id=HkgsPhNYPS) | |
