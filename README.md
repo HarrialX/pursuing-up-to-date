@@ -1,7 +1,7 @@
 ## Papers
 
 ### 2020
-| Conference | Title           | Type       |  Task | Paper       | Resource |
+| Conference | Title           | Type       |  Task | Paper       | Code |
 | --------- | -------- | -------- | -------- | ----------- | ---- |
 |ICLR'20| **Optimal Strategies Against Generative Attacks**  | Defense  |  Image Classification  |  [Link](https://openreview.net/pdf?id=BkgzMCVtPB) | |
 |ICLR'20|**Adversarial Training and Provable Defenses: Bridging the Gap** | Defense | Image Classification | [Link](https://openreview.net/pdf?id=SJxSDxrKDr)| |
