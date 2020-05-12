@@ -15,3 +15,9 @@
 | ICLR'20 | **[A Fair Comparison of Graph Neural Networks for Graph Classification](https://openreview.net/pdf?id=HygDF6NFPB)** | Graph | Graph Classification | | |
 | ICLR'20 | **[Inductive representation learning on temporal graphs](https://openreview.net/pdf?id=rJeW1yHYwH)** | Graph | Temporal Graph Learning (Transductive/Inductive) | GAT, GraphSAGE, DeepWalk, Node2vec| |
 | ICLR'20 | **[Geom-GCN: Geometric Graph Convolutional Networks](https://openreview.net/pdf?id=S1e2agrFvS)** | Graph | Representative Learning |  | |
+| Usenix Security'20 | **[Local Model Poisoning Attacks to Byzantine-Robust Federated Learning](https://www.usenix.org/conference/usenixsecurity20/presentation/fang)** | Attack | Federated Learning |  |  |
+| Usenix Security'20 | **[High Accuracy and High Fidelity Extraction of Neural Networks](https://www.usenix.org/conference/usenixsecurity20/presentation/jagielski)** |  |  |  |  |
+| Usenix Security'20 | **[Adversarial Preprocessing: Understanding and Preventing Image-Scaling Attacks in Machine Learning](https://www.usenix.org/conference/usenixsecurity20/presentation/quiring)** | Defense | Image Classification | | |
+
+
+
