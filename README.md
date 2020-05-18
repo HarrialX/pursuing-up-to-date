@@ -1,6 +1,16 @@
 ## Papers
 
-### 2020
+### 2020 Security - Conference 
+| Venue | Paper           | Type       |  Task | Model       | Code |
+| --------- | -------- | -------- | -------- | ----------- | ---- |
+| S&P'20 | **[Intriguing Properties of Adversarial ML Attacks in the Problem Space](https://arxiv.org/abs/1911.02142)** | Attack |  |  |  |
+| S&P'20| **[Humpty Dumpty: Controlling Word Meanings via Corpus Poisoning](https://www.cs.cornell.edu/~shmat/shmat_oak20.pdf)** | Attack | NLP | | |
+| Usenix Security'20 | **[Local Model Poisoning Attacks to Byzantine-Robust Federated Learning](https://www.usenix.org/conference/usenixsecurity20/presentation/fang)** | Attack | Federated Learning |  |  |
+| Usenix Security'20 | **[High Accuracy and High Fidelity Extraction of Neural Networks](https://www.usenix.org/conference/usenixsecurity20/presentation/jagielski)** |  |  |  |  |
+| Usenix Security'20 | **[Adversarial Preprocessing: Understanding and Preventing Image-Scaling Attacks in Machine Learning](https://www.usenix.org/conference/usenixsecurity20/presentation/quiring)** | Defense | Image Classification | | |
+
+
+### 2020 Machine Learning - Conference 
 | Venue | Paper           | Type       |  Task | Model       | Code |
 | --------- | -------- | -------- | -------- | ----------- | ---- |
 | ICLR'20 | **[Black-Box Adversarial Attack with Transferable Model-based Embedding](https://openreview.net/pdf?id=SJxhNTNYwB)** | Attack | Image Classification | |  |
@@ -15,9 +25,7 @@
 | ICLR'20 | **[A Fair Comparison of Graph Neural Networks for Graph Classification](https://openreview.net/pdf?id=HygDF6NFPB)** | Graph | Graph Classification | | |
 | ICLR'20 | **[Inductive representation learning on temporal graphs](https://openreview.net/pdf?id=rJeW1yHYwH)** | Graph | Temporal Graph Learning (Transductive/Inductive) | GAT, GraphSAGE, DeepWalk, Node2vec| |
 | ICLR'20 | **[Geom-GCN: Geometric Graph Convolutional Networks](https://openreview.net/pdf?id=S1e2agrFvS)** | Graph | Representative Learning |  | |
-| Usenix Security'20 | **[Local Model Poisoning Attacks to Byzantine-Robust Federated Learning](https://www.usenix.org/conference/usenixsecurity20/presentation/fang)** | Attack | Federated Learning |  |  |
-| Usenix Security'20 | **[High Accuracy and High Fidelity Extraction of Neural Networks](https://www.usenix.org/conference/usenixsecurity20/presentation/jagielski)** |  |  |  |  |
-| Usenix Security'20 | **[Adversarial Preprocessing: Understanding and Preventing Image-Scaling Attacks in Machine Learning](https://www.usenix.org/conference/usenixsecurity20/presentation/quiring)** | Defense | Image Classification | | |
+
 
 
 
