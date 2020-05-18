@@ -1,6 +1,6 @@
 ## Papers
 
-### 2020 Security - Conference 
+### 2020 - Security Conferences
 | Venue | Paper           | Type       |  Task | Model       | Code |
 | --------- | -------- | -------- | -------- | ----------- | ---- |
 | S&P'20 | **[Intriguing Properties of Adversarial ML Attacks in the Problem Space](https://arxiv.org/abs/1911.02142)** | Attack |  |  |  |
@@ -10,7 +10,7 @@
 | Usenix Security'20 | **[Adversarial Preprocessing: Understanding and Preventing Image-Scaling Attacks in Machine Learning](https://www.usenix.org/conference/usenixsecurity20/presentation/quiring)** | Defense | Image Classification | | |
 
 
-### 2020 Machine Learning - Conference 
+### 2020 - AI Conferences
 | Venue | Paper           | Type       |  Task | Model       | Code |
 | --------- | -------- | -------- | -------- | ----------- | ---- |
 | ICLR'20 | **[Black-Box Adversarial Attack with Transferable Model-based Embedding](https://openreview.net/pdf?id=SJxhNTNYwB)** | Attack | Image Classification | |  |
