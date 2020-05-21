@@ -14,6 +14,7 @@
 | Venue | Paper           | Type       |  Task | Model       | Code |
 | --------- | -------- | -------- | -------- | ----------- | ---- |
 | ICLR'20 | **[Black-Box Adversarial Attack with Transferable Model-based Embedding](https://openreview.net/pdf?id=SJxhNTNYwB)** | Attack | Image Classification | |  |
+| ICLR'20 | **[DBA: Distributed Backdoor Attacks against Federated Learning](https://openreview.net/pdf?id=rkgyS0VFvr)** | Attack | Federated Learning |  |  |
 | ICLR'20 | **[Optimal Strategies Against Generative Attacks](https://openreview.net/pdf?id=BkgzMCVtPB)**  | Defense  |  Image Classification  | | |
 | ICLR'20 |**[Adversarial Training and Provable Defenses: Bridging the Gap](https://openreview.net/pdf?id=SJxSDxrKDr)** | Defense | Image Classification | | |
 | ICLR'20 | **[SELF: Learning to Filter Noisy Labels with Self-Ensembling](https://openreview.net/pdf?id=HkgsPhNYPS)** |  | Image Classification |  | |
